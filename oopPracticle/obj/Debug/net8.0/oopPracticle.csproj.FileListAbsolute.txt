@@ -1,0 +1,14 @@
+/Volumes/Lexar_akila/study/c# practicle/oopPracticle/bin/Debug/net8.0/oopPracticle
+/Volumes/Lexar_akila/study/c# practicle/oopPracticle/bin/Debug/net8.0/oopPracticle.deps.json
+/Volumes/Lexar_akila/study/c# practicle/oopPracticle/bin/Debug/net8.0/oopPracticle.runtimeconfig.json
+/Volumes/Lexar_akila/study/c# practicle/oopPracticle/bin/Debug/net8.0/oopPracticle.dll
+/Volumes/Lexar_akila/study/c# practicle/oopPracticle/bin/Debug/net8.0/oopPracticle.pdb
+/Volumes/Lexar_akila/study/c# practicle/oopPracticle/obj/Debug/net8.0/oopPracticle.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Lexar_akila/study/c# practicle/oopPracticle/obj/Debug/net8.0/oopPracticle.AssemblyInfoInputs.cache
+/Volumes/Lexar_akila/study/c# practicle/oopPracticle/obj/Debug/net8.0/oopPracticle.AssemblyInfo.cs
+/Volumes/Lexar_akila/study/c# practicle/oopPracticle/obj/Debug/net8.0/oopPracticle.csproj.CoreCompileInputs.cache
+/Volumes/Lexar_akila/study/c# practicle/oopPracticle/obj/Debug/net8.0/oopPracticle.dll
+/Volumes/Lexar_akila/study/c# practicle/oopPracticle/obj/Debug/net8.0/refint/oopPracticle.dll
+/Volumes/Lexar_akila/study/c# practicle/oopPracticle/obj/Debug/net8.0/oopPracticle.pdb
+/Volumes/Lexar_akila/study/c# practicle/oopPracticle/obj/Debug/net8.0/oopPracticle.genruntimeconfig.cache
+/Volumes/Lexar_akila/study/c# practicle/oopPracticle/obj/Debug/net8.0/ref/oopPracticle.dll
